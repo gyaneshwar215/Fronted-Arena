@@ -126,5 +126,12 @@ Cross-platform
  - Works on all devices
 Customizable
  - Easy to modify and extend
+ - 
 Perfect for daily productivity and beautiful design
  ⚡
+<img width="571" height="897" alt="Screenshot 2025-08-02 093455" src="https://github.com/user-attachments/assets/23903c02-11f0-4de8-bac4-a24290ee4615" />
+<img width="569" height="895" alt="Screenshot 2025-08-02 093503" src="https://github.com/user-attachments/assets/6bad4864-1045-4ea1-bc11-69ace1a81e38" />
+<img width="572" height="903" alt="Screenshot 2025-08-02 093512" src="https://github.com/user-attachments/assets/ce7a0b9b-7245-4041-8293-6cc701abec9b" />
+<img width="566" height="898" alt="Screenshot 2025-08-02 093521" src="https://github.com/user-attachments/assets/c56a7c83-5075-4ee3-8328-2d43e6e4f08b" />
+<img width="568" height="897" alt="Screenshot 2025-08-02 093531" src="https://github.com/user-attachments/assets/d714f737-6067-430d-a087-1d6e6f288964" />
+<img width="571" height="897" alt="Screenshot 2025-08-02 093540" src="https://github.com/user-attachments/assets/23efd8e7-a26f-4cbb-bd75-35f0a4ca570a" />
